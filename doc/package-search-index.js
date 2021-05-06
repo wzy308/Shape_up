@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"carte"},{"l":"controleur"},{"l":"designPattern"},{"l":"vue"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
